@@ -1,0 +1,18 @@
+/* center headings and make background blue */
+h1, h2{
+    text-align: center;
+    background-color:blue;
+}
+/* increase font size of list, buttons, and link */
+ul, button, a{
+    font-size: large;
+}
+/* center button and link */
+div, a{
+    text-align: center;
+}
+/* give list blue background and make text invisible */
+ul{
+    background-color: lightblue;
+    color: lightblue;
+}
