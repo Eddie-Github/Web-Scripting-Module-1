@@ -8,11 +8,15 @@ ul, button, a{
     font-size: large;
 }
 /* center button and link */
-div, a{
+div, a, footer{
     text-align: center;
 }
 /* give list blue background and make text invisible */
 ul{
     background-color: lightblue;
     color: lightblue;
+}
+/* add padding above footer */
+footer{
+    padding-top: 10pt;
 }
